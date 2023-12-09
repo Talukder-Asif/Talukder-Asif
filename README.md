@@ -3,7 +3,7 @@
 
 
 ### Work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,nodejs,react,vercel,vite,tailwind,mongodb,)](https://skillicons.dev)
 
 
 <!-- Wirking In -->
