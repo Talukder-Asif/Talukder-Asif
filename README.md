@@ -35,9 +35,8 @@
 
 
 
-## My github status
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=transparent)
+## My GitHub status
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=react&border_radius=5)
 
 ![GitHub Status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talukder-Asif&theme=github)
 
