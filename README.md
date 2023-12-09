@@ -1,3 +1,5 @@
+![My Banner](https://raw.githubusercontent.com/Talukder-Asif/Talukder-Asif/main/Assets/Banner.png)
+
 ## Hi there, This is Asif Talukder
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=transparent&hide_border=true)
 
