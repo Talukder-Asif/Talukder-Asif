@@ -1,5 +1,6 @@
 ### Hi there, This is Asif Talukder
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=transparent&hide_border=true)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=transparent&hide_border=true)
+
 <!--
 **Talukder-Asif/Talukder-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
