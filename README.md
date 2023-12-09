@@ -10,13 +10,18 @@
 - 😄 My next step is full-stack web development
 
 ### I'm working with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,nodejs,react,vercel,vite,tailwind,mongodb,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,nodejs,react,vercel,vite,tailwind,mongodb,)
+
+### My social Account
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aj-asif-talukder/) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=61552467179053) 
+
+
+
 
 
 ### My github status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talukder-Asif&theme=transparent&hide_border=true)
 
 ![GitHub Status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talukder-Asif&theme=github)
-
-
 
